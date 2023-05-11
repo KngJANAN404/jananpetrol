@@ -1,4 +1,4 @@
-rm -rf
+rm -rf jananpetrol
 
 
 git clone https://github.com/KngJANAN404/jananpetrol
